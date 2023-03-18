@@ -8,3 +8,5 @@
 4. a ver si esto sale bien 
 
 5. Modificación al repositorio
+
+6. Clonado en mi PC (Antonio)
